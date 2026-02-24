@@ -31,5 +31,3 @@ This project demonstrates proficiency in core front-end concepts without relying
 2. Navigate to the project folder.
 3. Simply open `landingpage.html` in your preferred web browser to start using the app (no local server required).
 
-https://github.com/user-attachments/assets/eb5a0f60-c1b3-4d02-83ce-693d131a766a
-
